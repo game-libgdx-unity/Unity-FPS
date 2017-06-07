@@ -3,7 +3,7 @@
 FPS game using UFPS and Paragon Shooter AI. Using unity engine 5.5.2.
 
 You can watch the video on youtube:
-https://www.youtube.com/watch?v=fA3VMLeVcP8
+[![Unity FPS](http://img.youtube.com/vi/90Pb76PzqZM/0.jpg)](http://www.youtube.com/watch?v=90Pb76PzqZM "Unity FPS")
 
 Due to copyrighted packages, I can't upload the source code here.
 You can download a playable exe run on Windows here: 
