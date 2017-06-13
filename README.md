@@ -11,3 +11,5 @@ https://drive.google.com/file/d/0B9TsWVI1UbkKMFc5cG9jSzdzMVE/view?usp=sharing
 
 You can get more of my open source on my github:
 https://github.com/game-libgdx-unity/
+
+Fixed some small issues.
